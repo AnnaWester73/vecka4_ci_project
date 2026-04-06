@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5d3d661-79b1-47f3-bd86-fad3a318c96f" name="Changes" comment="Commit with fixes får Lint code with flake8">
+    <list default="true" id="c5d3d661-79b1-47f3-bd86-fad3a318c96f" name="Changes" comment="Commit with 2 integration testcases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/names.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_integration_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_integration_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775472596114</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit with 2 integration testcases">
+      <option name="closed" value="true" />
+      <created>1775474359088</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775474359088</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +120,7 @@
     <MESSAGE value="Project structure with __init__.py" />
     <MESSAGE value="Commit with unit test TDD red and fixes in python-ci.yml and other configuration files" />
     <MESSAGE value="Commit with fixes får Lint code with flake8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit with fixes får Lint code with flake8" />
+    <MESSAGE value="Commit with 2 integration testcases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit with 2 integration testcases" />
   </component>
 </project>
