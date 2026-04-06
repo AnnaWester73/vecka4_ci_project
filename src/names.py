@@ -1,10 +1,7 @@
 def create_name_list():
-    pass
+    return ["Anna", "Mathias", "Emil", "Moa", "Ebba"]
 
 
 def name_exists(name):
-    pass
-
-
-def get_namnes():
-    pass
+    names = create_name_list()
+    return name in names

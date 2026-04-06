@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5d3d661-79b1-47f3-bd86-fad3a318c96f" name="Changes" comment="Commit with unit test TDD red and fixes in python-ci.yml and other configuration files">
+    <list default="true" id="c5d3d661-79b1-47f3-bd86-fad3a318c96f" name="Changes" comment="Commit with fixes får Lint code with flake8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/names.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_unit_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_unit_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_integration_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_integration_names.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775472059918</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit with fixes får Lint code with flake8">
+      <option name="closed" value="true" />
+      <created>1775472596114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775472596114</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -104,6 +112,7 @@
     <MESSAGE value="Project structure" />
     <MESSAGE value="Project structure with __init__.py" />
     <MESSAGE value="Commit with unit test TDD red and fixes in python-ci.yml and other configuration files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit with unit test TDD red and fixes in python-ci.yml and other configuration files" />
+    <MESSAGE value="Commit with fixes får Lint code with flake8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit with fixes får Lint code with flake8" />
   </component>
 </project>
