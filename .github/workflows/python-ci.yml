@@ -35,6 +35,6 @@ jobs:
       # 5 Kör tester
       - name: Run tests with pytest
         run: |
-          pytest --maxfail-1 --disable-warnings -q
+          pytest --maxfail=1 --disable-warnings -q
 
-# För CD behöver man ett jobb "deplay" som publicera en ny version av appen, så den kan användas
+# För CD behöver man ett jobb "deploy" som publicera en ny version av appen, så den kan användas
