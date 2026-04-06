@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5d3d661-79b1-47f3-bd86-fad3a318c96f" name="Changes" comment="Initial files">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="c5d3d661-79b1-47f3-bd86-fad3a318c96f" name="Changes" comment="Commit with unit test TDD red and fixes in python-ci.yml and other configuration files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/names.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_unit_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_unit_names.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +72,38 @@
       <option name="project" value="LOCAL" />
       <updated>1775467304048</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Project structure">
+      <option name="closed" value="true" />
+      <created>1775470377423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775470377423</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project structure with __init__.py">
+      <option name="closed" value="true" />
+      <created>1775470864400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775470864400</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit with unit test TDD red and fixes in python-ci.yml and other configuration files">
+      <option name="closed" value="true" />
+      <created>1775472059918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775472059918</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial files" />
+    <MESSAGE value="Project structure" />
+    <MESSAGE value="Project structure with __init__.py" />
+    <MESSAGE value="Commit with unit test TDD red and fixes in python-ci.yml and other configuration files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit with unit test TDD red and fixes in python-ci.yml and other configuration files" />
   </component>
 </project>
